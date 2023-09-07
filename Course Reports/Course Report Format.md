@@ -11,7 +11,7 @@
 
 # Course Report
 
-## Name: [Your Name]
+## Name: [B.Divya]
 
 ## Qualifications: [Your Qualifications]
 
