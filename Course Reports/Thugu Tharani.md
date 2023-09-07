@@ -25,7 +25,6 @@ Below is a table summarizing the mini projects and final project completed durin
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: Library management         | [clickhere](https://github.com/TharaniReddyThugu/G26_Python/blob/main/Mini%20Projects/Thugu%20Tharani/Library_Management(Mini_project).ipynb) 
 |Mini Projects:Password strength generator   | [clickhere](https://github.com/TharaniReddyThugu/G26_Python/blob/main/Mini%20Projects/Thugu%20Tharani/Password_Strength_Generator(Mini_project).ipynb)  
-                      |
-| Final Projects: Customer churn prediction  | [clickhere](https://github.com/TharaniReddyThugu/G26_Python/blob/main/Final%20Capstone%20Project/Thugu%20Tharani/Customer_churn(2).ipynb)
-|Final Projects:Customer life time value using Ecommerce| [clickhere](https://github.com/TharaniReddyThugu/G26_Python/blob/main/Final%20Capstone%20Project/Thugu%20Tharani/Customerlifetime.ipynb)
+| Final Projects: Customer churn prediction  | [clickhere](https://github.com/TharaniReddyThugu/G26_Python/blob/main/Final%20Capstone%20Project/Thugu%20Tharani/Customer_churn(2).ipynb) |
+|Final Projects:Customer life time value using Ecommerce| [clickhere](https://github.com/TharaniReddyThugu/G26_Python/blob/main/Final%20Capstone%20Project/Thugu%20Tharani/Customerlifetime.ipynb) |
 |Final Projects:Restaurent rating prediction|[clickhere](https://github.com/TharaniReddyThugu/G26_Python/blob/main/Final%20Capstone%20Project/Thugu%20Tharani/ZOMATO.ipynb)                       |
