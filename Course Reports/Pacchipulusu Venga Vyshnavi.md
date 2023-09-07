@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: [Pacchipulusu Venga Vyshnavi]
+## Name: Pacchipulusu Venga Vyshnavi
 
-## Qualifications: [B.TECH]
+## Qualifications: B.TECH
 
 Welcome to the course report for the [PYTHON AND MACHINE LEARNING BASIC APPLICATIONS]! This README document provides an overview of the course, its mini projects and final project.
 
@@ -26,4 +26,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Mini Projects: [college Management system]     | [click here](https://github.com/sure-trust/G26_Python/tree/main/Mini%20Projects/Vyshnavi%20PP)                         |
 | Final Project: [flight fare Prediction,
 		  Travel package purchase prediction,
-		  segment customers]              | [click here] (https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Vyshnavi%20PP)                        |
+		  segment customers]              | [click here](https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Vyshnavi%20PP)                        |
