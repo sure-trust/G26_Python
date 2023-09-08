@@ -19,6 +19,17 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Cyber Security, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/43)
 
+
+|Student name|link|
+|------------|----|
+|Deepak B|[click here](link)|
+|Diya Divya|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/B.Divya.md)|
+|Sushmitha Dondlavagu|[click here](link)|
+|Thugu Tharani|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/Thugu%20Tharani.md)|
+|Vamsi Krishna|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/CHOPPA%20VAMSI%20KRISHNA.md)|
+|Vutharamalluru Sohitha|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/Vutharamalluru%20Sohitha.md)|
+|Vyshnavi pp|[click here](link)|
+
 ## Repository Description
 
 This repository is designed to support the G26 Python & Machine Learning Basic Applications program at SURE Trust. It follows the below mentioned organization structure:
