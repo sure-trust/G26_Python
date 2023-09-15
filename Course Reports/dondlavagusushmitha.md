@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: movie tickets booking based on python | [click here](https://github.com/sure-trust/G26_Python/tree/main/Mini%20Projects/Sushmitha%20Dondlavagu)|
-| Final Project: machine learning based problems | [click here](https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Sushmitha%20Dondlavagu)|                       |
+| Final Project: machine learning based problems | [click here](https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Sushmitha%20Dondlavagu)|                       
