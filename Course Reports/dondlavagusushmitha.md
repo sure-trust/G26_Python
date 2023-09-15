@@ -6,16 +6,16 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Course Name </h2>
+  <h2> Python & Machine Learning Basic Applications </h2>
 </div>
 
 # Course Report
 
-## Name: [B.Divya]
+## Name: Dondlavagu Sushmitha
 
-## Qualifications: [Your Qualifications]
+## Qualifications: Pursuing 4th year Btech
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Python & Machine Learning Basic Applications! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects: movie tickets booking based on python | [click here](https://github.com/sure-trust/G26_Python/tree/main/Mini%20Projects/Sushmitha%20Dondlavagu)|
+| Final Project: machine learning based problems | [click here](https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Sushmitha%20Dondlavagu)|                       |
