@@ -22,13 +22,13 @@ To enroll in the Cyber Security, please visit the official SURE Trust website: [
 
 |Student name|link|
 |------------|----|
-|Deepak B|[click here](link)|
+|Deepak B|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/Deepak.B.md)|
 |Diya Divya|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/B.Divya.md)|
 |Sushmitha Dondlavagu|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/dondlavagusushmitha.md)|
 |Thugu Tharani|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/Thugu%20Tharani.md)|
 |Vamsi Krishna|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/CHOPPA%20VAMSI%20KRISHNA.md)|
 |Vutharamalluru Sohitha|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/Vutharamalluru%20Sohitha.md)|
-|Vyshnavi pp|[click here](link)|
+|Vyshnavi pp|[click here](https://github.com/sure-trust/G26_Python/blob/main/Course%20Reports/Pacchipulusu%20Venga%20Vyshnavi.md)|
 
 ## Repository Description
 
