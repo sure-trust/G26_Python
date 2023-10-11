@@ -23,7 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [To-Do list ]     | [click here](https://github.com/NanuDeepak/G26_Python/tree/main/Mini%20Projects/Deepak%20B)                         |
-| Final Project: [Air quality Index,
-                  Thyroid disease Detection,
-                  Restaurant Recommendation]     | [click here](https://github.com/NanuDeepak/G26_Python/tree/main/Final%20Capstone%20Project/Deepak%20B)                         |
+| Mini Projects: [To-Do list ]     | [click here](https://github.com/sure-trust/G26_Python/tree/main/Mini%20Projects/Deepak%20B)                         |
+| Final Project: [Air quality Index,Thyroid disease Detection,Restaurant Recommendation]     | [click here](https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Deepak%20B)                         |
