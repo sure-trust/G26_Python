@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Personal Finance Manager     | [click here](https://github.com/VutharamalluruSohitha/G26_Python/tree/main/Mini%20Projects/Vutharamalluru%20Sohitha)                         |
-| Final Project: Estimating car prices ,drug activity prediction,music mood analysis     | [click here](https://github.com/VutharamalluruSohitha/G26_Python/tree/main/Final%20Capstone%20Project/Vutharamalluru%20Sohitha)                         |
+| Mini Projects: Personal Finance Manager     | [click here](https://github.com/sure-trust/G26_Python/tree/main/Mini%20Projects/Vutharamalluru%20Sohitha)                         |
+| Final Project: Estimating car prices ,drug activity prediction,music mood analysis     | [click here](https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Vutharamalluru%20Sohitha)                         |
