@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Split Expenses     | [click here](https://github.com/bivya86/G26_Python/tree/main/Mini%20Projects/Diya%20Divya)                         |
-| Final Project: Estimate insurance claim,Employee Attrition Prediction,Health data clustering    | [click here](https://github.com/bivya86/G26_Python/tree/main/Final%20Capstone%20Project/Diya%20Divya)                       |
+| Mini Projects: Split Expenses     | [click here](https://github.com/sure-trust/G26_Python/tree/main/Mini%20Projects/Diya%20Divya)                         |
+| Final Project: Estimate insurance claim,Employee Attrition Prediction,Health data clustering    | [click here](https://github.com/sure-trust/G26_Python/tree/main/Final%20Capstone%20Project/Diya%20Divya)                       |
