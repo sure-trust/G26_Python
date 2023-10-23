@@ -34,7 +34,6 @@ To enroll in the Cyber Security, please visit the official SURE Trust website: [
 
 This repository is designed to support the G26 Python & Machine Learning Basic Applications program at SURE Trust. It follows the below mentioned organization structure:
 
-- *Notes*: An archive of  notes and course materials provided by the trainer.
 - *Mini Projects*: A repository holding code files of the mini projects undertaken during the course.
 - *Final Project*: A comprehensive compilation of code files and resources of the final projects.
 - *Course Reports*: A repository containing course reports authored by students, documenting their individual progress and experiential insights.
