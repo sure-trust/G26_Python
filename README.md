@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Python & Machine Learning Basic Applications Course Registration
 
-To enroll in the Cyber Security, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/43)
+To enroll in the Cyber Security, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 
 |Student name|link|
